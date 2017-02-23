@@ -66,7 +66,7 @@
                       <?php   }
                      ?>
 
-                    <li><a href="<?php echo base_url('user/user');?>">Registration</a></li>
+                    <li><a href="<?php echo base_url('registration');?>">Registration</a></li>
 
 
                   </ul>
